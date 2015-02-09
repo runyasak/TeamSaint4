@@ -35,7 +35,7 @@ Exceed vote by TeamSaint4 @yoyothai00 @runyasak @kazixma @vasupol11 @knewrock
   </tr>
 </table>
 ##Document
-[Vision Statement]()
+[Vision Statement](https://github.com/SSD2015/TeamSaint4/wiki/Informal-Use-Cases)
 
 [Glossary]()
 
