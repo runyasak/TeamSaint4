@@ -35,11 +35,11 @@ Exceed vote by TeamSaint4 @yoyothai00 @runyasak @kazixma @vasupol11 @knewrock
   </tr>
 </table>
 ##Document
-[Vision Statement](https://github.com/SSD2015/TeamSaint4/wiki/Informal-Use-Cases)
+[Vision Statement]()
 
 [Glossary]()
 
-[Informal Use cases]()
+[Informal Use cases](https://github.com/SSD2015/TeamSaint4/wiki/Informal-Use-Cases)
 
 [Supplementary requirements]()
 
