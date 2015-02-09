@@ -35,15 +35,15 @@ Exceed vote by TeamSaint4 @yoyothai00 @runyasak @kazixma @vasupol11 @knewrock
   </tr>
 </table>
 ##Document
-[Vision Statement]()
+[Vision Statement](https://github.com/SSD2015/TeamSaint4/wiki/Vision-Statement)
 
-[Glossary]()
+[Glossary](https://github.com/SSD2015/TeamSaint4/wiki/Glossary)
 
 [Informal Use cases](https://github.com/SSD2015/TeamSaint4/wiki/Informal-Use-Cases)
 
-[Supplementary requirements]()
+[Supplementary requirements](https://github.com/SSD2015/TeamSaint4/wiki/Supplementary-requirements)
 
-[Compare Java Web Framework]()
+[Compare Java Web Framework](https://github.com/SSD2015/TeamSaint4/wiki/Compare-Java-Web-Framework)
 
 
 
