@@ -34,7 +34,7 @@ Exceed vote by TeamSaint4 @yoyothai00 @runyasak @kazixma @vasupol11 @knewrock
     <td>@kazixma</td>
   </tr>
 </table>
-##Document
+##Documentation
 [Vision Statement](https://github.com/SSD2015/TeamSaint4/wiki/Vision-Statement)
 
 [Glossary](https://github.com/SSD2015/TeamSaint4/wiki/Glossary)
