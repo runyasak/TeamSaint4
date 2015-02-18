@@ -44,6 +44,7 @@ Exceed vote by TeamSaint4 @yoyothai00 @runyasak @kazixma @vasupol11 @knewrock
 [Supplementary requirements](https://github.com/SSD2015/TeamSaint4/wiki/Supplementary-requirements)
 
 [Compare Java Web Framework](https://docs.google.com/document/d/1RpwVYUFB7RAf6l51BdPdq-alQeYE5jnchkHoS9Sp3f0/edit?usp=sharing)
+[Domain Model](https://github.com/SSD2015/TeamSaint4/wiki/Domain-Model)
 
 
 
