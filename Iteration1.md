@@ -6,9 +6,9 @@
 
 | Milestone | Description, Evaluation Criteria, Work Products |
 |-----------|-----------------------------------------|
-|  Account to database | Description: Link account to the database so the information could be store for the web. Criteria: The account username and password should be save in the database. Product: A very simple template for the login page will be made. |
-|  Template up and online | Description: We will have a simple version of the website online with most of the design and function still unavailable but still be able to link to each other.   |
-
+|  Architect  | Description: The web framework and architect is established and studied.|
+|  UC1  | Description: UC1 "User identification" is added, connected to database, and tested.|
+|  Website Online | Description: The web application is deployed on a server.|
 
 ## Iteration Objective(s)
 
