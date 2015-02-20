@@ -12,23 +12,19 @@
 
 ## Iteration Objective(s)
 
-_List the objectives you want to accomplish and major tasks needed to meet the objectives.
-During iteration planning and your team meetings you will find additional tasks and more detailed tasks.
-Add the major tasks here.
-All tasks should be created as "Issues" in the online issue tracking system.
-Don't need to write detailed tasks here._
-
-
-
 
 | Objective/Feature/Task | Priority (1=very high, 5=low) |
 |------------------------|:-----------------------------:|
-| Detailed design of sale component | 1 |
-| Implement UC1:  Perform Sale, Basic flow and Alternative | 1 |
+| Simple login page template | 3 |
+| Create account database | 1 |
+| Login function from web | 1 |
+| Rank page prototype (UI) | 3 |
+| Main page prototype (UI)| 2 |
+| Team page prototype (UI)| 2 |
+| Rate page prototype (UI)| 2 |
 
-## Unplanned Work
+##Unplanned Work
 
-_If you discover major unplanned work during the iteration, add it to your issue tracker and also add it here.
-For small unplanned tasks, just record in issue tracker._
+The main function of the project is to rate, but there is also a future vision for creating a voting page.
 
 
