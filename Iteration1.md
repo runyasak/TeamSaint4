@@ -2,12 +2,13 @@
 
 ## Milestone(s)
 
-_A Milestone is something that is verifiable and shows definite progress toward completing the project.
-You can have more than one, and one milestone can specify more than one thing to accomplish._
+
 
 | Milestone | Description, Evaluation Criteria, Work Products |
 |-----------|-----------------------------------------|
-|  name     | description, the criteria that verify this milestone is done, and the work products related to it |
+|  Account to database | Description: Link account to the database so the information could be store for the web. Criteria: The account username and password should be save in the database. Product: A very simple template for the login page will be made. |
+|  Template up and online | Description: We will have a simple version of the website online with most of the design and function still unavailable but still be able to link to each other.   |
+
 
 ## Iteration Objective(s)
 
@@ -17,7 +18,7 @@ Add the major tasks here.
 All tasks should be created as "Issues" in the online issue tracking system.
 Don't need to write detailed tasks here._
 
-_You can write objectives as a list instead of table._
+
 
 
 | Objective/Feature/Task | Priority (1=very high, 5=low) |
