@@ -26,7 +26,6 @@ public class Application extends Controller {
     	if(loginForm.hasErrors()){
     		return badRequest(login.render(loginForm));
     		
-    		
     	}else{
     		session().clear();
     		session("email",loginForm.get().email);
