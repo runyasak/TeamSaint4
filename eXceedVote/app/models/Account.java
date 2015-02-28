@@ -15,6 +15,6 @@ public class Account extends Model {
 	public String Username;
 	public String Password;
 	public int type;
-	
+	public static Finder<Long,Account> find=new Finder<Long,Account>(Long.class,Account.class);
 	
 }
