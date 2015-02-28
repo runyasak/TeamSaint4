@@ -8,11 +8,14 @@ import play.mvc.*;
 import play.data.*;
 import static play.data.Form.*; 
 import views.html.*;
+import models.*;
 
 public class Application extends Controller {
 
     public static Result index() {
-        return ok(index.render("Your new application is ready."));
+    	Account a = new Account ("aaa@aaa","bbb",1);
+    	a.save();
+        return ok(index.render("a"));
     }
     public static Result login(){
     	return ok(login.render(Form.form(Login.class)));
@@ -38,7 +41,7 @@ public class Application extends Controller {
     	public String email;
     	public String password;
     	public String validate(){
-    		if(User.authenticate(email,password)==null){
+    		if(Account.authenticate(email,password)==null){
     			return "Invalid user or password";
     			
     			
